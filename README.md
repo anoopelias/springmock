@@ -1,1 +1,1 @@
-==Spring Mock Example==
+Spring Mock Example
